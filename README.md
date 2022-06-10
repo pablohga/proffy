@@ -89,4 +89,4 @@ Essa aplicação foi realizada durante a Next **Level Week #2**, projeto da [Roc
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
-<sup>Projeto desenvolvido com a tutoria de [Diego Fernandes](https://github.com/diego3g), da [Rocketseat](rocketseat.com.br).</sup>
+<sup>Projeto desenvolvido por [Pablo Azevedo](https://github.com/pablohga) com a tutoria de [Diego Fernandes](https://github.com/diego3g), da [Rocketseat](rocketseat.com.br).</sup>
